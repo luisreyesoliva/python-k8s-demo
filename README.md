@@ -1,11 +1,8 @@
-# IBM Developer MLH Fellowship July 2020
+# Build Smart on Kubernetes Day 1
 
 ## Container and Container Orchestration
 
 This is a very simple demo application to demonstrate container technologies and container orchestration. Hopefully by the end of this we will all learn some useful basics. 
-
-## Sign Up for a cloud account
-https://ibm.biz/mlh-fellows
 
 ## Docker
 
