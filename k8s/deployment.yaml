@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: qotd
-        image: luisreyes/hello-quotes:2.0
+        image: luisreyes/hello-quotes:1.0
         ports:
         - containerPort: 80
