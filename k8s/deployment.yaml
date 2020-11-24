@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: qotd
-        image: moficodes/python-quotes:v1.0.0
+        image: luisreyes/hello-quotes:1.0
         ports:
-        - containerPort: 8080
+        - containerPort: 80
